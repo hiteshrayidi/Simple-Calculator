@@ -33,9 +33,7 @@ python calculator.py
 2. Click the number and operator buttons to create a mathematical expression.
 3. Press the **=** button to calculate the result.
 4. Press **C** to clear the input field.
-5. If an invalid expression is entered, the calculator displays **Error**.
-📸 Screenshot
-> Add a screenshot of your calculator here.
+5. If an invalid expression is entered, the calculator displays Error
 Example:
 Calculator Screenshot
 🎯 Concepts Covered
